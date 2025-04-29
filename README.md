@@ -1,29 +1,42 @@
-Project Management App
-📋 Project Description
-This is a simple and user-friendly project management interface built with React. It allows users to create, edit, delete, and view projects with fields such as name, category, experience, deadline, and description. The app uses localStorage for data persistence, so all data is stored locally in the browser.
+📋 Project Management App
+📝 Project Description
+This is a simple and user-friendly project management interface built with React. It allows users to create, edit, delete, and view projects. Each project contains the following fields:
+
+Name
+
+Category
+
+Experience
+
+Deadline
+
+Description
+
+The app uses localStorage for data persistence, meaning all data is stored locally in the browser.
 
 🚀 Features
-Add and manage project entries
+➕ Add and manage project entries
 
-Deadline detection with "Expired" status
+⏰ Deadline detection with "Expired" status
 
-Modal confirmation for deletions
+🗑 Modal confirmation for deletions
 
-Conditional rendering for Create/Edit views
+🔁 Conditional rendering for Create/Edit views
 
-Form validation with Final Form
+✅ Form validation with Final Form + Yup
 
-Responsive UI with Material UI (MUI)
+📱 Responsive UI built with Material UI (MUI)
 
-Navigation with React Router
+🧭 Navigation with React Router DOM
 
 🛠️ Technologies Used
 
 Technology	Description
 React	Front-end library for building UI
 React Router	Client-side routing
-Final Form	Form state management and validation
-Material UI	UI component library (MUI v5)
+Final Form	Form state management
+Yup	Validation schema
+Material UI	UI component library
 CSS Modules	Scoped and modular CSS styling
 localStorage	Local data persistence
 
