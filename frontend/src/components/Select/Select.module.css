@@ -1,0 +1,18 @@
+.user__selectBlock{
+    width:41%;
+}
+
+.user__select{
+    width:100%;
+    min-height: 45px;
+    font-size: var(--font-size-medium);
+    font-family: var(--font-regular);
+}
+.user__error{
+    color:red;
+    position: relative;
+    top:10px
+}
+.user__selectBlockEdit{
+    width:28%;
+}

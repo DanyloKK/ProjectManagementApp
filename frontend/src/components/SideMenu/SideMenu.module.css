@@ -1,0 +1,21 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    gap: var(--font-size-small);
+}
+
+.nav__item {
+    font-size: var(--font-size-extra);
+    font-family: var(--font-regular);
+    padding: 15px 8vw 15px 19px;
+    border-radius: var(--font-size-extra);
+    text-decoration: none;
+}
+.nav__itemColor{
+    color: var(--extra-color);
+}
+
+.nav__item:hover{
+    color: var(--main-color);
+    background-color: var(--secondary-color);
+}

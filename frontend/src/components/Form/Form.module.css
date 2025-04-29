@@ -1,0 +1,23 @@
+.user__form{
+    max-width: 1060px;
+    display: flex;
+    column-gap: 4.3rem;
+    row-gap: var(--font-size-medium);
+    flex-wrap: wrap;
+    padding: 55px 77px 55px 59px;
+    margin: 0 0 55px 0;
+    border-radius: var(--font-size-medium);
+}
+.user__formColor{
+    background:var(--main-color)
+}
+.user__formEdit {
+    max-width: 1060px;
+    display: flex;
+    column-gap: 1.8rem;
+    row-gap: var(--font-size-medium);
+    flex-wrap: wrap;
+    padding: 55px 77px 55px 59px;
+    margin: 0 0 55px 0;
+    border-radius: var(--font-size-medium);
+}

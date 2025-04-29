@@ -1,0 +1,32 @@
+.user__inputBlock {
+    width: 41%;
+}
+
+.user__input {
+    width: 100%;
+    min-height: 41px;
+    font-size:var(--font-size-regular);
+    font-family: var(--font-regular);
+}
+
+
+.user__textarea {
+    width: 100%;
+    resize: none;
+    min-height: 162px;
+    font-size:var(--font-size-regular);
+    font-family: var(--font-regular);
+}
+
+.user__textAreaBlock {
+    width: 90%
+
+}
+.user__error{
+    color:red;
+    position: relative;
+    top:15px;
+}
+.user__inputBlockEdit{
+    width:28%;
+}

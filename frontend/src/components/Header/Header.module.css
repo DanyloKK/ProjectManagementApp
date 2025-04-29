@@ -1,0 +1,18 @@
+.header{
+    padding-top: 40px;
+}
+.header__container {
+    max-width: 1360px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 0 40px 0;
+}
+.header__title {
+    font-family: var(--font-black);
+    font-size:var(--font-size-medium);
+    text-transform: uppercase;
+}
+.header__titleColor{
+    color: var(--extra-color);
+}

@@ -1,0 +1,15 @@
+.header__list{
+    display: flex;
+    gap:1.5rem;
+    list-style: none;
+    align-items: center;
+}
+.header__userName{
+    font-size: var(--font-size-small);
+    font-family: var(--font-regular);
+}
+.header__userNameColor{
+    color: #9ca3af;
+}
+.header__logo{
+}

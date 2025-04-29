@@ -1,0 +1,15 @@
+.edit__title{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1040px;
+    align-items: flex-start;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+.edit__head{
+    margin-top: 0;
+    font-size: var(--font-size-large);
+    font-family: var(--font-medium);
+    max-width: 540px;
+}

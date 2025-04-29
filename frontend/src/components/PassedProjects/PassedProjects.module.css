@@ -1,0 +1,11 @@
+.projects__active{
+    display:flex;
+    justify-content: space-between;
+}
+.projects__titlePassed{
+    font-size: var(--font-size-large);
+    font-family: var(--font-medium);
+}
+.projects__titlePassedColor{
+    color:var(--font-black);
+}
