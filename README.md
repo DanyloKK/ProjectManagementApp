@@ -46,4 +46,4 @@ npm -v ➜
  git clone https://github.com/TroodInc/trood-front-hackathon.git ➜
  cd frontend ➜
  npm install ➜
- npm start ➜
+ npm start 
