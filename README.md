@@ -42,3 +42,8 @@ localStorage	Local data persistence
 Local Setup
 node -v
 npm -v
+ Installation proccess 
+ git clone https://github.com/TroodInc/trood-front-hackathon.git
+ cd frontend
+ npm install
+ npm start 
