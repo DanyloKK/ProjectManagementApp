@@ -1,5 +1,6 @@
 📋 Project Management App
 📝 Project Description
+Link to deployed project https://project-management-app-two-murex.vercel.app/projects
 This is a simple and user-friendly project management interface built with React. It allows users to create, edit, delete, and view projects. Each project contains the following fields:
 
 Name
